@@ -9,7 +9,7 @@ Check out my other [repos](http://github.com/JasonGiedymin)!
 ## Install ##
 
     cd /etc/init.d
-    sudo wget https://raw.github.com/chloerei/nginx-init-ubuntu-passenger/master/nginx
+    sudo wget https://raw.github.com/nick-desteffen/nginx-init-ubuntu-passenger/master/nginx
     sudo update-rc.d nginx defaults
     sudo chmod +x nginx
     sudo service nginx start
